@@ -34,7 +34,7 @@ Below an image example of the outcome:
 - Clone this repo in the `~/catkin_ws/src` folder by typing:
 ~~~ 
     cd ~/catkin_ws/src
-    git clone https://github.com/issaiass/jetbot_perception.git --recursive
+    git clone https://github.com/issaiass/jetbot_perception_2d.git --recursive
     cd ..
 ~~~
 - Go to the root folder `~/catkin_ws` and make the folder running `catkin_make` to ensure the application compiles.
@@ -174,7 +174,9 @@ You could see the results on this youtube video.
 <p align="center">
 
 Jetbot Perception using SSD Mobilenet
+
 [<img src= "https://img.youtube.com/vi/5O2olvxdjiI/0.jpg" />](https://youtu.be/5O2olvxdjiI)
+
 </p>
 
 </details>
