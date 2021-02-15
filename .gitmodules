@@ -1,0 +1,6 @@
+[submodule "jetbot_msgs"]
+	path = jetbot_msgs
+	url = https://github.com/issaiass/jetbot_msgs.git
+[submodule "jetbot_perception"]
+	path = jetbot_perception
+	url = https://github.com/issaiass/jetbot_perception.git
